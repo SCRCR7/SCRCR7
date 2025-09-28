@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Beyond Coding  
-- 🎥 Interested in modeling & creative concepts  
+- 🎥 Interested in creative concepts  
 - 📖 Exploring business, entrepreneurship, and personal growth  
 - 🎧 Enjoy listening to meaningful lectures and talks  
 
