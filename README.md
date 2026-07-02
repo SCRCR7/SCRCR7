@@ -182,7 +182,7 @@ I'm open to **full stack engineering roles**, **AI integration projects**, and *
 
 - 📧 **sohaibhassancc@gmail.com**
 - 🌐 **[hassanspace.com](https://hassanspace.com)**
-- 💼 **[LinkedIn](https://linkedin.com/in/sohaibhassan)**
+- 💼 **[LinkedIn]([https://linkedin.com/in/sohaibhassan](https://www.linkedin.com/in/sohaib-hassan-72b133239/)**
 - 🎯 **[Fiverr](https://fiverr.com/sohaib_cr7)**
 
 ---
