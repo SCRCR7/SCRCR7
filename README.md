@@ -1,27 +1,196 @@
-💫 About Me:
-👋 Hi, I'm Sohaib Hassan<br><br>## 🚀 About Me<br><br>🎓 Bachelor's student in Computer Software Engineering<br>💻 Freelance Web Developer since 2022<br>🌍 Based in Pakistan<br>🔥 Passionate about building real-world web applications and solving practical problems<br>🧠 Focused on becoming a strong Full-Stack Developer<br><br>---<br><br>💻 Tech Stack<br><br>### Frontend<br><br>HTML • CSS • JavaScript • React • Responsive Design<br><br>### Backend<br><br>Node.js • Express.js • REST APIs • Authentication • MySQL • PHP<br><br> CMS & Tools<br><br>WordPress • Shopify • Git • GitHub • Postman • VS Code<br><br>Database<br><br>MongoDB • MySQL • Database Design Basics<br><br>---<br><br>🧩 Projects I Have Built<br><br>🔹 Basic Instagram Clone<br>• User authentication (Login/Register)<br>• Follow system concept<br>• Post creation<br>• Backend API integration<br>• MongoDB database structure<br><br>🔹 WordPress Client Websites<br>• Business websites<br>• Healthcare websites<br>• Elementor & Blocksy development<br>• SEO structure setup<br><br>🔹 REST API Practice Projects<br>• CRUD operations<br>• API testing with Postman<br>• MVC structure practice<br>• Authentication systems (JWT basics)<br><br>🔹 Quick Order System (WordPress Custom Development)<br>• AJAX based product loading<br>• Custom child theme structure<br>• Dynamic order submission<br><br>---<br><br>📚 Currently Learning<br><br>• Data Structures & Algorithms<br>• Advanced React concepts<br>• API Architecture<br>• Cloud Computing basics<br>• Backend scalability concepts<br><br>---<br><br>## 🏫 Learning Sources<br><br>• Sheriyans Coding School (Web Development & Backend Concepts)<br>• Documentation-first learning (MDN, official docs)<br>• Project-based learning approach<br><br>---<br><br>🧠 Concepts I Know<br><br>• MVC Architecture basics<br>• REST API structure<br>• Authentication flow<br>• Database relationships<br>• Git workflow<br>• Basic system design thinking<br><br>---<br><br>🌟 Beyond Coding<br><br>🎥 Interested in creative technical ideas<br>📖 Learning about business & entrepreneurship<br>🎧 Listening to educational talks<br>⚡ Goal: Build a professional development agency<br><br>---<br><br>📫 Contact Me<br><br>💌 Email: [sohaib@hassanspace.me](mailto:sohaib@hassanspace.me)<br><br>💼 Fiverr:<br>https://www.fiverr.com/sohaib_cr7/design-healthcare-dental-clinic-and-medical-wordpress-website<br><br>🌐 Portfolio:<br>http://hassanspace.me/<br><br>---<br><br>⚡ GitHub Goals 2026<br><br>• Build more full-stack projects<br>• Contribute to open source<br>• Improve DSA problem solving<br>• Build SaaS products<br>
+<div align="center">
 
+# 👋 Hey, I'm Sohaib Hassan
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohaib-hassan-72b133239/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/HassanSheriyans) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sohaib hassan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibhassancc@gmail.com) 
+### AI-Powered Full Stack Engineer · MERN Stack · LangChain & LangGraph
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SCRCR7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SCRCR7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SCRCR7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building production-style AI-integrated web applications from Pakistan 🇵🇰*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SCRCR7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohaibhassan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://hassanspace.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/sohaib_cr7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaibhassancc@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SCRCR7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SCRCR7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a **Full Stack Developer** specializing in **AI-integrated web applications** using the MERN stack, LangChain, and LangGraph.
+
+I build production-style systems that combine scalable backend architecture with intelligent LLM-powered features — from multi-model AI evaluation platforms to real-time mood detection apps and multi-tenant SaaS frontends.
+
+- 🎓 Final-year **BSc Software Engineering** @ IMSciences, Peshawar (2022–2026)
+- 💼 **3+ years** of freelance client delivery via Fiverr (USA, UK, Europe, Australia)
+- 🤖 Specializing in **LangChain, LangGraph, and multi-LLM orchestration**
+- 🌱 Currently deepening: **System Design · Docker · AWS · AI Agents**
+- ⚡ Positioning: *"The student who builds production-grade AI systems, not toy demos"*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4F46E5?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_API-FF7000?style=flat-square&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_API-39594D?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white)
+
+### 📚 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-0F172A?style=flat-square&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🏟️ [AI Battle Arena](https://github.com/SCRCR7/ai-battle-arena)
+> *Multi-LLM evaluation platform — LangGraph · LangChain · Gemini · Mistral · Cohere · React · Node.js · MongoDB*
+
+A production-style platform built with a **4-layer architecture** (React/Axios UI → Express Gateway → LangGraph Orchestration → LLM Layer). Multiple AI models simultaneously process the same prompt. An AI Judge evaluates all responses for quality, accuracy, and reasoning — then surfaces a ranked recommendation.
+
+**Key engineering decisions:**
+- 🔀 LangGraph stateful pipelines for simultaneous multi-model orchestration
+- ⚖️ AI Judge layer with structured evaluation criteria and scoring
+- 📊 Real-time comparison dashboard — quality, reasoning & token usage side-by-side
+- 🗄️ MongoDB storing prompt history, model responses, and evaluation scores
+
+---
+
+### 🎧 [NexaSupport — AI Customer Support SaaS](https://github.com/SCRCR7/nexasupport)
+> *Multi-tenant SaaS frontend — React 18 · Vite · Redux Toolkit · Axios · SASS · GSAP · React Router v6*
+
+A multi-tenant AI customer support platform frontend. Businesses register, connect their FAQ data, and deploy an AI agent that handles customer queries automatically — routing only complex tickets to human agents.
+
+**Key engineering decisions:**
+- 🏗️ Redux Toolkit state slices for global auth, ticket, and agent state
+- 🎬 GSAP animations for premium UI transitions and micro-interactions
+- 📦 Modular SCSS architecture — one `.scss` file per component
+- 🔗 Axios instance with interceptors consuming a separate Node.js/Express backend
+
+---
+
+### 🔍 [Perplexity AI Clone](https://github.com/SCRCR7/perplexity-clone)
+> *LangChain · Node.js · React · MongoDB · Web Search API · Axios*
+
+AI-powered search engine that retrieves real-time web data, synthesizes it through an LLM, and returns cited, conversational answers — replicating Perplexity AI's core functionality.
+
+- Real-time web retrieval pipeline integrated with LangChain
+- Source citation and response streaming for responsive UX
+- Conversation history persistence in MongoDB
+
+---
+
+### 🎵 [Moodify — Mood-Based Music Recommendation](https://github.com/SCRCR7/moodify)
+> *React · Node.js · Camera API · TensorFlow.js · Spotify API · MongoDB*
+
+Real-time emotion detection via webcam, mapped to a personalized music recommendation engine.
+
+- Live camera feed → emotion classification in real time
+- Detected mood → personalized song categories and track fetching
+- REST API backend with user preference history in MongoDB
+
+---
+
+### 🛒 [SmartShop — Final Year Project](https://github.com/SCRCR7/smartshop)
+> *React · Node.js · Express · MongoDB · Multer*
+
+Full-featured MERN e-commerce platform with product management, cart system, JWT auth, file uploads, and role-based admin dashboard.
+
+---
+
+### 📦 More Projects
+| Project | Stack | Description |
+|---|---|---|
+| YouTube Downloader | Node.js · Express · React · yt-dlp | Full stack video/audio downloader with format selector |
+| AI Chatbots | LangChain · Node.js · React | Multi-turn conversational agents with memory |
+| Auth Systems | JWT · bcrypt · Express · MongoDB | Role-based access control systems |
+| Admin Dashboards | React · Node.js · MongoDB | Data-heavy CRUD dashboards with chart visualizations |
+| Courier Tracking | MERN Stack | Real-time shipment tracking with admin panel |
+| Instagram Clone | MERN Stack | Auth, posts, follow system, MongoDB |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCRCR7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCRCR7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCRCR7&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SCRCR7&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Currently Building Toward
+
+```
+AI Engineering  ████████████████████░░░░  80%
+MERN Stack      ████████████████████████  95%
+System Design   ████████████░░░░░░░░░░░░  50%
+Docker / AWS    ██████░░░░░░░░░░░░░░░░░░  25%
+AI Agents       ████████████████░░░░░░░░  65%
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **full stack engineering roles**, **AI integration projects**, and **remote opportunities**.
+
+- 📧 **sohaibhassancc@gmail.com**
+- 🌐 **[hassanspace.com](https://hassanspace.com)**
+- 💼 **[LinkedIn](https://linkedin.com/in/sohaibhassan)**
+- 🎯 **[Fiverr](https://fiverr.com/sohaib_cr7)**
+
+---
+
+<div align="center">
+
+*"Building production-grade AI systems, not toy demos."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SCRCR7&color=4F46E5&style=flat-square&label=Profile+Views)
+
+</div>
